@@ -1,0 +1,491 @@
+@media only screen and (max-width: 1550px){
+    .container.banner h2 {
+        text-align: left;
+        color: #04A753;
+        font-size: 42px;
+    }
+    .col-sm-6.buttonscta {
+        margin-top: 10% !important;
+        margin-bottom: 0% !important;
+    }
+    .col-sm-4.side h3 {
+        font-size: 36px !important;
+        color: #0E76BC;
+    }
+    .col-sm-4.side .buy {
+        width: 50%;
+    }
+    .productsslides h3 {
+        font-size: 22px;
+        color: #092854 !important;
+    }
+    .productsslides img {
+        padding-bottom: 24px;
+    }
+    .productsslides p.categories {
+        padding-top: 12px;
+    }
+    .myfooter p {
+        width: 88%;
+    }
+    .nav-item.dropdown {
+        padding: 0 10px !important;
+    }
+    .col-sm-9.productslides {
+        width: 90%;
+    }
+    .nav-item.dropdown a {
+        font-size: 16px !important;
+    }
+     li, span, p,td {
+        font-size: 16px !important;
+    }
+    .container.homemenu {
+        padding: 120px 0;
+    }
+    .productmenu h2 {
+        padding-bottom: 70px !important;
+    }
+    .container.homemenu h2 {
+        padding: 35px 0;
+    }
+    .menusildes h3 {
+        margin-top: -35px !important;
+        font-size: 18px !important;
+    }
+    .container.productss {
+        padding-bottom: 170px;
+    }
+    .container.corporate.productss, .container.financial.productss {
+        padding-top: 170px;
+    }
+    .row.claimprocedure {
+        padding: 7% 5%;
+    }
+    .container.productnav a {
+        height: 70px;
+    }
+    .row.whychosesalaam {
+        padding: 70px 0;
+    }
+    .swiper-slide h3 {
+        font-size: 18px !important;
+        text-align: left;
+    }
+    .swiper-slide p {
+        width: 100% !important;
+
+    }
+    .motor .swiper-button-prev {
+        top: 95% !important;
+        right: 4% !important;
+    }
+    body{
+        overflow-x: hidden !important;
+    }
+    html{
+        overflow-x: hidden !important;
+    }
+    .col-sm-12.heads.text.retaakaful {
+        margin-top: 1px;
+    }
+    .retak h2.aos-init.aos-animate {
+        font-size: 42px;
+    }
+    .text.news .col-sm-4 {
+        margin: 10px !important;
+    }
+    .text.news .menusildes  h4 {
+        font-size: 18px !important;
+        margin-bottom: 0;
+    }
+    .row.greenbox p {
+        font-size: 36px !important;
+        line-height: 55px !important;
+    }
+    .row.greenbox a {
+        font-size: 30px !important;
+        line-height: 55px !important;
+    }
+    .statment .accordion-body p {
+        font-size: 22px !important;
+    }
+    .row.statment h2 {
+        font-size: 38px;
+    }
+    .statment button.accordion-button {
+        font-size: 24px;
+    }
+    .sub.shariahcom {
+        width: 85% !important;
+        margin: auto;
+        text-align: center;
+    }
+    .sub.shariahcom p{
+        padding-bottom: 0 !important;
+    }
+    .motor h2 {
+        color: #0E76BC;
+        font-size: 38px !important;
+    }
+    .tabss .col-sm-12.heads.text h3 {
+        font-size: 22px !important;
+    }
+    .col-sm-4.cardcta {
+        background: #0E76BC;
+        padding: 6% 5% !important;
+        margin-top: -0.6%;
+    }
+    .col-sm-4.writeus {
+        padding: 4% !important;
+    }
+    .sub.surplus {
+        width: 90% !important;
+    }
+    .tabss .col-sm-12.heads.text .sub.productetxt .col-sm-8 p {
+        width: 100% !important;
+        font-size: 14px !important;
+    }
+    .sub.productetxt.uniqueprods h2 {
+        text-align: center !important;
+        font-size: 38px !important;
+    }
+    .tabss .col-sm-12.heads .row.prodbox .col-sm-4 h3 {
+        padding-bottom: 0 !important;
+        transition: all 300ms ease-in-out;
+        font-size: 20px !important;
+    }
+    .row.prodbox {
+        max-width: 95% !important;
+        margin: auto;
+        padding-top: 5%;
+    }
+    .row.prodbox .col-sm-4 {
+        height: 400px !important;
+    }
+    .container-fluid.shares .row {
+        width: 95% !important;
+        margin: auto;
+    }
+    .tabss .col-sm-12.heads.text .shares.riders h3 {
+        font-size: 21px !important;
+    }
+    .supliment {
+        padding-bottom: 20px !important;
+    }
+    .myfooter h3 {
+        color: #fff !important;
+        padding-bottom: 15px;
+        font-size: 24px;
+    }
+    .nav-item.dropdown a {
+        font-size: 14px !important;
+        padding: 0 !important;
+    }
+   
+}
+
+@media only screen and (max-width: 1450px){
+    .nav-link h4 {
+        font-size: 14px !important;
+        padding: 10px 5px;
+    }
+    .header img {
+        width: 20% !important;
+    }
+    .motor .swiper-button-prev {
+        right: 4% !important;
+    }
+    .nav-item.dropdown a {
+        font-size: 14px !important;
+    }
+    .statment button.accordion-button {
+        font-size: 24px;
+    }
+    .col-sm-4.cardcta {
+        background: #0E76BC;
+        padding: 5.5% 5% !important;
+        margin-top: -0.6%;
+    }
+    .col-sm-4.writeus {
+        padding: 3% !important;
+    }
+    .tabss.motor .col-sm-12.heads.text .sub.surplus p {
+        font-size: 16px !important;
+    }
+    .col-sm-6.buttonscta .buy {
+        padding: 12px 20px !important;
+    }
+    /* changes made */
+    .col-sm-9 {
+        flex: 0 0 auto;
+        width: 75%;
+        padding: 4px;
+
+    }
+    .col-sm-9 p{
+        margin-top:10px;
+
+    }
+
+    .col-sm-9 .navbar-nav .dropdown-menu {
+        position: static;
+        padding: 0px;
+
+    }
+
+    .nav-item.dropdown a {
+        font-size: 14px !important;
+        padding: 5px !important;
+    }
+
+    .dropdown-menu.show a {
+       
+        margin-top: 11px;
+        margin-left: 1px;
+    }
+
+    .dropdown-menu.show {
+        background: #0E76BC!important;
+        margin-left: -18%;
+    }
+
+    .tabss img {
+        width: 142% !important;
+        margin-left: -6%;
+        margin-top: -21%;
+    }
+
+    .row.prodbox {
+        max-width: 85% !important;
+        margin: auto;
+        padding-top: 5%;
+    }
+
+    .claimprocedure img {
+        width: auto !important;
+        margin-right: 8px;
+    }
+    .tabss img {
+        width: 142% !important;
+        margin-left: -2%;
+        margin-top: 0%;
+    }
+    .col-sm-12 .claimprocedure li {
+        padding-left: 24px !important;
+        padding: 1%;
+    }
+
+     .col-sm-8 p {
+        width: 66.66666667% !important;
+        padding-left: 0%;
+        padding-right: 4%;
+        font-size:50px;
+    }
+    .col-sm-7 .supliment {
+        padding-bottom: 21px !important;
+    }
+
+    .container.homemenu h2 {
+        font-size: 52px;
+        color: #fff;
+        letter-spacing: 7px;
+        padding: 51px 0;
+        text-align: center;
+        margin-top: -7%;
+    }
+
+    .row .tabss .col-sm-12.heads.text .sub.productetxt .col-sm-8 p {
+        width: 100% !important;
+        font-size: 16px !important;
+        margin-left: 0%;
+
+        
+    }
+    .col-sm-4 h3.dname {
+        text-align: left;
+        color: #0E76BC;
+        font-weight: 700;
+        padding-top: 13px;
+        padding-left: 40px;
+        margin-bottom: 0;
+        font-size: 20px;
+    }
+
+    .col-sm-4 p.designation {
+        padding: 0;
+        margin: 0px;
+        text-align: left;
+        padding-left: 41px;
+        font-weight: 500;
+        font-size: 22px;
+        color: #4B4B4B;
+        text-transform: capitalize;
+    }
+
+    .col-sm-4 .react-card-front button img {
+        width: 80%;
+    }
+
+    .col-sm-12 .whoweare p {
+        margin: -13px !important;
+        padding: 0px !important;
+        margin-left: 10% !important;
+        padding-bottom: 30px !important;
+    }
+
+
+}
+
+@media only screen and (max-width: 1370px){
+    .col-sm-4.side h3 {
+        font-size: 30px;
+        color: #0E76BC;
+    }
+    .nav-item.dropdown a {
+        font-size: 14px !important;
+    }
+    .col-sm-6.buttonscta .buy {
+        padding: 12px 15px !important;
+    }
+    li, span, p,td {
+        font-size: 15px !important;
+    }
+    .col-sm-6.buttonscta {
+        width: 30% !important;
+    }
+    .row.greenbox p {
+        font-size: 30px !important;
+        line-height: 55px !important;
+    }
+    .row.greenbox a {
+        font-size: 28px !important;
+        line-height: 55px !important;
+    }
+    .row.greenbox h4 {
+        font-size: 18px !important;
+        font-weight: 400;
+    }
+    .react-reveal .audit h3 {
+        color: #000;
+        font-size: 30px !important;
+    }
+    .row.statment h2 {
+        font-size: 30px !important;
+    }
+    .statment button.accordion-button {
+        font-size: 22px !important;
+    }
+    .motor h2 {
+        color: #0E76BC;
+        font-size: 28px !important;
+    }
+    .container.tabss.motor .row.tabscss p {
+        font-size: 14px !important;
+        padding-bottom: 0 !important;
+    }
+    .col-sm-4.cardcta {
+        background: #0E76BC;
+        padding: 5.5% 5% !important;
+        margin-top: -0.6%;
+    }
+    .col-sm-4.writeus {
+        padding: 2% !important;
+    }
+    .tabss .col-sm-12.heads.text .col-sm-4.cardcta a {
+        font-size: 16px !important;
+    }
+    .sub.surplus {
+        width: 90% !important;
+        padding: 60px 0 !important;
+    }
+    
+    /*changes*/
+    .col-sm-4.writeus {
+        margin-left: -2.7%;
+    }
+
+    .nav-item.dropdown a {
+        font-size: 14px !important;
+        padding: 3px !important;
+    }
+    .tabss img {
+        width: 97% !important;
+    }
+
+}
+
+@media only screen and (max-width: 1280px){
+    .col-sm-6.buttonscta {
+        margin-top: 15% !important;
+        margin-bottom: -7% !important;
+    }
+    .container.homemenu {
+        padding: 100px 0;
+    }
+    .container.productnav a {
+        padding: 16px;
+    }
+    .nav-item.dropdown a {
+        font-size: 14px !important;
+    }
+    .row.greenbox p {
+        font-size: 27px !important;
+        line-height: 55px !important;
+    }
+    .row.greenbox a {
+        font-size: 25px !important;
+        line-height: 55px !important;
+    }
+    .col-sm-4.cardcta {
+        background: #0E76BC;
+        padding: 5% 5% !important;
+        margin-top: -0.6%;
+    }
+    .col-sm-4.writeus {
+        padding: 1% !important;
+    }
+    .tabss .col-sm-12.heads.text .col-sm-4.cardcta a {
+        font-size: 14px !important;
+    }
+    .sub.surplus {
+        width: 90% !important;
+        padding: 60px 0 !important;
+    }
+    .container-fluid.shares.marbot.mufti img {
+        width: 80%;
+        margin-bottom: -190px !important;
+    }
+    .row.whoweare.codeofconduct p.aos-init.aos-animate {
+        width: 75% !important;
+        margin: 20px auto;
+    }
+    p.aos-init.aos-animate {
+        font-size: 14px !important;
+    }
+    .col-sm-12.shareholding {
+        padding-top: 0px;
+        padding-bottom: -227px;
+        text-align: center;
+    }
+
+    .navbar-expand-lg {
+        flex-wrap: nowrap;
+        justify-content: flex-start;
+        margin-left: -5%;
+    }
+
+    .nav-item.dropdown a {
+        font-size: 14px !important;
+        padding: 2px !important;
+    
+    }
+    .nav-item.dropdown {
+        margin-left:-1%
+    
+    }
+}
+
+
+
+

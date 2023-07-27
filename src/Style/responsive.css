@@ -1,0 +1,635 @@
+
+@media only screen and (max-width: 820px) {
+    .mobile {
+        display: block !important;
+    }
+    .desktop {
+        display: none !important;
+    }
+    .row.preloader img {
+        width: 25%;
+    }
+    .video-container {
+        height: 50%;
+        width: 100% !important;
+        overflow-x: hidden;
+    }
+    body{
+        overflow-x: hidden;
+    }
+    body{
+        overflow-x: hidden;
+    }
+    nav.bg-body-tertiary.navbar.navbar-expand-lg.navbar-light {
+        justify-content: end;
+        width: 100%;
+        filter: invert(1);
+    }
+    .col-sm-6.buttonscta .call {
+        padding: 12px 15px !important;
+    }
+    .container.banner:before {
+        height: 51%;
+    }
+    .container.banner {
+        height: 51vh;
+    }
+    .col-sm-4.side {
+        width: 50%;
+    }
+    .col-sm-8.menus {
+        width: 50%;
+    }
+    .swiper-button-prev, .swiper-rtl .swiper-button-next {
+        left: auto !important;
+        right: 14% ;
+        top: 80% !important;
+    }
+    .donwloadapps h2 {
+        font-size: 30px;
+        color: #0E76BC !important;
+        padding-bottom: 10px;
+    }
+    .container.donwloadapps {
+        padding: 50px 0;
+    }
+    .container.donwloadapps .row {
+        padding: 0 5%;
+    }
+    .donwloadapps .buy {
+        padding: 15px 20px;
+        font-size: 14px;
+    }
+    .col-sm-6.buttonscta {
+        margin-bottom: 0% !important;
+    }
+    .col-sm-6.buttonscta {
+        width: 30%;
+        right: 0%;
+    }
+    .myfooter .accordion-button::after {
+        filter: invert(1);
+    }
+    .myfooter .footerlogo {
+        width: 15%;
+    }
+    .textcentr {
+        text-align: center;
+    }
+    .myfooter p {
+        width: 100%;
+        font-size: 18px !important;
+    }
+    .accordion {
+        width: 100%;
+        margin-top: 20px;
+    }
+    .myfooter button.accordion-button.collapsed {
+        background: transparent !important;
+        color: #fff!important;
+        margin-bottom: 10px;
+    }
+    .myfooter button.accordion-button {
+        background: transparent !important;
+        color: #fff !important;
+    }
+    .myfooter .accordion-body {
+        background: transparent !important;
+        color: #fff !important;
+    }
+    .myfooter .accordion-button:not(.collapsed){
+        box-shadow: unset !important;
+    }
+    .myfooter .accordion-item {
+        border: unset;
+        border-bottom: 1px solid #efefef;
+    }
+    .myfooter button.accordion-button {
+        font-size: 22px;
+    }
+    .container.myfooter.showtab {
+        padding: 15% 10% !important;
+    }
+    .showtab {
+        display: block !important;
+    }
+    .hidetab{
+        display: none !important;
+    }
+    .header img {
+        width: 20%;
+    }
+    .col-sm-12.heads.text.govdirectors .col-sm-4 {
+        width: 50%;
+        margin-bottom: 20px;
+    }
+    .govdirectors button.backbox {
+        height: 490px;
+    }
+    .govdirectors button {
+        height: 490px;
+        margin-bottom: 30px;
+    }
+    .shares h2 {
+        text-align: center;
+        color: #0E76BC;
+        font-size: 26px;
+    }
+    .shares {
+        background-color: #0FB583;
+        padding-top: 50px;
+    }
+    .shares img {
+        width: 100%;
+        margin-bottom: 0;
+    }
+    .col-sm-12.shareholding {
+        padding-top: 80px;
+        padding-bottom: 0px;
+        text-align: center;
+    }
+    .col-sm-12.shareholding a {
+        width: 20%;
+    }
+}
+
+
+
+
+
+
+@media only screen and (max-width: 480px) {
+    .header img {
+        width: 40% !important;
+    }
+    .header .react-reveal.col-sm-6 {
+        padding-left: 0 !important;
+    }
+    .mobile {
+        display: block !important;
+    }
+    .desktop {
+        display: none !important;
+    }
+    .video-container video {
+        width: 100% !important;
+        height: 100% !important;
+        object-fit: unset !important;
+    }
+    .video-container {
+        height: 75% !important;
+        width: 100% !important;
+        overflow-x: hidden I !important;
+    }
+    .container.banner:before {
+        height: 70% !important;
+    }
+    .container.banner {
+        height: 70vh !important;
+    }
+    .col-sm-4.side {
+        width: 100% !important;
+    }
+    .col-sm-8.menus {
+        width: 100% !important;
+    }
+    .productmenu h2 {
+        font-size: 24px !important;
+        font-weight: 800;
+    }
+    .col-sm-4.side {
+        width: 100% !important;
+        padding-bottom: 45px;
+    }
+    .col-sm-4.side h3 {
+        font-size: 24px !important;
+        color: #0E76BC;
+    }
+    .productslides .swiper-button-prev {
+        left: auto !important;
+        right: 22% !important;
+        top: 80% !important;
+    }
+    .menusildes {
+        padding: 15px !important;
+    }
+    .container.donwloadapps .col-sm-6 {
+        max-width: 100% !important;
+    }
+    .col-sm-6.mobiles {
+        margin-top: 90px !important;
+        margin-bottom: 0;
+    }
+    .myfooter .footerlogo {
+        width: 35% !important;
+    }
+    .container.myfooter p {
+        width: 100% !important;
+        font-size: 14px !important;
+    }
+    .col-sm-6.buttonscta {
+        width: 50% !important;
+        right: 0%;
+    }
+    .col-sm-6.buttonscta {
+        margin-bottom: 0% !important;
+    }
+    .col-sm-12.explore h2 {
+        font-size: 34px !important;
+    }
+    .swiper-button-prev, .swiper-rtl .swiper-button-next {
+        left: auto !important;
+        right: 22% !important;
+        top: 80% !important;
+    }
+    .container.homemenu {
+        padding: 70px 0 !important;
+    }
+    .react-reveal.col-sm-6.buttonscta {
+        max-width: 100% !important;
+    }
+    .col-sm-6.buttonscta {
+        width: 100% !important;
+    }
+    h1, h2, h3, h4 {
+        position: relative;
+        z-index: 999999999;
+    }
+    .container.myfooter.showtab {
+        display: block !important;
+    }
+    .accordion {
+        width: 100% !important;
+    }
+    .col-sm-12.heads.text.govdirectors .col-sm-4 {
+        width: 100%;
+    }
+    .govdirectors button {
+        height: 490px !important;
+        margin-bottom: 30px !important;
+    }
+    .shares img {
+        width: 100%;
+        margin-bottom: 20px !important;
+        margin-top: 0px;
+    }
+    .shares h2 {
+        font-size: 26px !important;
+    }
+    .col-sm-12.shareholding {
+        padding-top: 70px !important;
+        padding-bottom: 70px !important;
+        text-align: center;
+    }
+    .motor .shareholding h2 {
+        font-size: 30px !important;
+    }
+    .col-sm-12.shareholding a {
+        width: 80% !important;
+    }
+    .productnav .col-sm-2 {
+        margin: auto;
+        width: 80%;
+    }
+    .motor h2 {
+        text-align: center;
+        color: #0E76BC;
+        font-size: 30px !important;
+    }
+    .motor p {
+        width: 100% !important;
+    }
+    .col-sm-12.heads.text .col-sm-4.why {
+        width: 100% !important;
+    }
+    .row.whychosesalaam {
+        width: 90% !important;
+        margin: auto;
+        padding: 50px 0 !important;
+        justify-content: center;
+    }
+    .col-sm-12.heads.text .col-sm-6.why {
+        width: 100% !important;
+    }
+    .col-sm-6 {
+        max-width: 100% !important;
+    }
+    .motor .claimprocedure .subheading h2{
+        font-size: 22px !important;
+        color: #000;
+    }
+    .nav-link.active img {
+        height: 370px;
+        object-fit: cover;
+        transition: all 800ms ease-in-out;
+        filter: grayscale(0);
+        width: 100%;
+    }
+    .container-fluid.header .col-sm-6 {
+        width: 50% !important;
+        max-width: 50% !important;
+    }
+    .menu {
+        text-align: end;
+    }
+    .container.myfooter.showtab {
+        padding: 15% 0% !important;
+    }
+    .tab-content .row.tabs{
+        padding-bottom: 30PX  !important;
+    }
+    .container.productss {
+        background: #fff;
+        padding: 170px 0 !important;
+    }
+    .container.individual.productss .col-sm-4 {
+        padding-left: 0;
+        text-align: center;
+        padding-bottom: 15px !important;
+    }
+    .container.individual.productss .col-sm-4 div {
+        font-size: 32px !important;
+    }
+    .container.individual.productss {
+        padding-bottom: 40px !important;
+    }
+
+    .container.corporate.productss .col-sm-4 {
+        padding-left: 0;
+        text-align: center;
+        padding-bottom: 15px !important;
+    }
+    .container.corporate.productss .col-sm-4 div {
+        font-size: 32px !important;
+    }
+    .container.corporate.productss {
+        padding-bottom: 40px !important;
+        padding-top: 40px !important;
+    }
+    .productss .swiper-slide h3 {
+        font-size: 24px !important;
+        text-align: center !important;
+    }
+
+    .container.financial.productss .col-sm-4 {
+        padding-left: 0;
+        text-align: center;
+        padding-bottom: 15px !important;
+    }
+    .container.financial.productss .col-sm-4 div {
+        font-size: 32px !important;
+    }
+    .container.financial.productss {
+        padding-bottom: 40px !important;
+        padding-top: 40px !important;
+    }
+    .container.productss .menusildes h3 {
+        background: #000;
+        font-size: 18px !important;
+    }
+     th{
+        font-size: 26px !important;
+    }
+    table{
+        width: 900px;
+    }
+    .col-sm-12.takafultable {
+        overflow-x: scroll;
+    }
+    .takafultable th:first-child {
+        width: 240px !important;
+    }
+    html{
+        overflow-x: hidden !important;
+    }
+    body{
+        overflow-x: hidden !important;
+    }
+    .accordion-body {
+        overflow-x: scroll;
+    }
+    .col-sm-12.subheading h2 {
+        font-size: 18px !important;
+    }
+    .col-sm-12.grophowtoclaim {
+        padding: 20px 0;
+    }
+    .row.claimprocedure h2 {
+        font-size: 36px;
+        text-align: center !important;
+    }
+    .row.claimprocedure {
+        align-items: flex-start !important;
+        width: 100%;
+        max-width: 100%;
+        margin: 0;
+    }
+    .react-reveal.container-fluid {
+        padding: 0;
+    }
+    .row.whychosesalaam.gropss .chose h2 {
+        font-size: 42px;
+    }
+    button.accordion-button {
+        text-align: left;
+    }
+    .container.banner:before{
+        content: unset;
+    }
+    .whoweare p{
+        width: 85% !important;
+    }
+    .row.whoweare {
+        flex-direction: column-reverse;
+    }
+    .row.whoweare img{
+        margin-bottom: 25px;
+    }
+    .row.whoweare.mission {
+        flex-direction: column !important;
+    }
+    .vision li {
+        padding-right: 0% !important;
+    }
+    .retaakaful {
+        margin: 20px 0 !important;
+        margin-bottom: 20px !important;
+    }
+    .col-sm-12.heads.text.news {
+        width: 100% !important;
+        margin: auto;
+        padding: 120px 0;
+    }
+    .text.news .col-sm-4{
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+        margin: 15px;
+        width: 90%;
+        padding: 10px;
+        border-radius: 10px;
+        margin: auto !important;
+        margin-bottom: 50px !important;
+    }
+    .react-reveal .audit h3 {
+        width: 100% !important;
+    }
+    .statment button.accordion-button {
+        font-size: 18px !important;
+    }
+    .row.greenbox{
+        justify-content: center !important;
+    }
+    .row.greenbox .col-sm-3{
+        width: 85% !important;
+    }
+    .container.boxes {
+        max-width: 100% !important;
+    }
+    .sub.shariahcom {
+        width: 99% !important;
+        margin: auto;
+        text-align: center;
+    }
+    .sub.shariahcom p.aos-init.aos-animate{
+        font-size: 14px !important;
+    }
+    .shariahtabs ul.mb-3.nav.nav-tabs.nav-fill {
+        width: 100%;
+        margin-bottom: 5% !important;
+        overflow-x: scroll;
+        display: flex;
+        flex-wrap: inherit;
+        justify-content: flex-start;
+    }
+    .heads .sub.shariahtabs li.nav-item {
+        width: 60%;
+        flex: 0 0 50%;
+    }
+    .row.tabscss img {
+        height: 300px !important;
+        object-fit: cover;
+    }
+    .tabscss .col-sm-8 {
+        flex: 0 0 auto;
+        width: 100% !important;
+    }
+    .tabss .col-sm-12.heads.text h3 {
+        font-size: 22px !important;
+        padding-bottom: 10px;
+        font-weight: 700 !important;
+        padding-top: 10px;
+    }
+    .row.tabscss {
+        width: 95% !important;
+        margin: auto;
+        align-items: center !important;
+        margin-bottom: 5% !important;
+    }
+    .row.tabscss.left {
+        flex-direction: column-reverse;
+    }
+    .row.tabscss img{
+        margin-bottom: 20px;
+    }
+    .tab-content ul {
+        padding-left: 10px !important;
+    }
+    .col-sm-3.write img {
+        width: 30% !IMPORTANT;
+    }
+    .col-sm-3.write{
+        text-align: center;
+    }
+    .col-sm-4.writeus {
+        padding: 10% !important;
+    }
+    .col-sm-4.cardcta {
+        padding: 10% 8% !important;
+    }
+    .tabss.motor .col-sm-12.heads.text .sub.surplus p {
+        font-size: 14px !important;
+    }
+    .react-reveal.col-sm-9.writeus {
+        padding-bottom: 30px;
+    }
+
+    .col-sm-6.explore {
+        padding-left: 0;
+    }
+    .col-sm-6.explore p{
+        width: 100%;
+        padding-top: 10px;
+    }
+    .col-sm-6.explore img{
+        padding-bottom: 30px;
+    }
+    .sub.productetxt .col-sm-8 {
+        width: 100% !important;
+        padding-left: 5%;
+        padding-right: 8%;
+    }
+    .row.prodbox .col-sm-4 {
+        width: 95%;
+    }
+    .shares.riders img {
+        margin-top: 0 !important;
+    }
+    .shares.riders .react-reveal.col-sm-7 {
+        padding-left: 0 !important;
+    }
+    .row.whoweare h2 {
+        padding-bottom: 5%;
+        padding-left: 0 !important;
+    }
+    .whoweare p {
+        width: 90% !important;
+        margin-left: 30px !important;
+    }
+    .row.whoweare.mission.left {
+        display: flex;
+        flex-direction: column-reverse !important;
+    }
+    .core .vision {
+        padding-right: 0 !important;
+    }
+    .container-fluid.shares.marbot.mufti img {
+        width: 80%;
+        margin-bottom: 0 !important;
+    }
+    .container-fluid.shares.marbot img {
+        width: 80%;
+        margin-bottom: 0px !important;
+    }
+    .container.governancemain.motor .shares img {
+        width: 80%;
+        margin-bottom: 0px !important;
+    }
+    .shares {
+        background-color: #0FB583;
+        padding-top: 50px;
+        padding-bottom: 50px !important;
+    }
+    .row.whoweare.codeofconduct p.aos-init.aos-animate {
+        width: 90% !important;
+        margin-left: 25px !IMPORTANT;
+    }
+    .row.whoweare.codeofconduct h2 {
+        width: 86% !important;
+        text-align: left;
+        margin: auto;
+        padding-left: 0;
+        padding-bottom: 6%;
+        padding-top: 2%;
+    }
+    .patern li {
+        width: 100% !important;
+    }
+    .govdirectors {
+        padding: 60px 0 !important;
+    }
+    .header .react-reveal.col-sm-3 {
+        width: 50%;
+    }
+    .header .react-reveal.col-sm-9 {
+        width: 50%;
+    }
+}
