@@ -358,8 +358,36 @@
         background-color: #0FB583;
         padding-top: 78px;
     }
+
+    .row .col-sm-12.shareholding a {
+        margin-left: 34%;
+    }
+
+    .col-sm-6.buttonscta {
+        font-size: 15px;
+    }
     
-    
+    .row .swiper-slide h3 {
+        font-size: 22px !important;
+        text-align: left;
+    }
+    .row .col-sm-7 h3::before {
+        content: "➤ "; 
+        margin-right: 5px; 
+        font-size:15px;
+    }
+
+    .row .col-sm-7 p{
+        margin-left:4%;
+    }
+
+    .row .govdirectors {
+        padding: 90px 0 !important;
+    }
+
+    .col-sm-6.buttonscta .buy {
+        padding: 0px 13px !important;
+    }
 
 }
 
@@ -445,6 +473,24 @@
         margin-top: 7%;
     }
 
+    .row .col-sm-12.heads.adds.firstpart {
+        padding: 66px 0;
+    }
+    .row .swiper-slide h3 {
+        font-size: 21px !important;
+        text-align: left;
+    }
+    
+    .row .govdirectors {
+        padding: 87px 0 !important;
+    }
+    
+    .col-sm-6.buttonscta .buy {
+        padding: 0px 12px !important;
+    }
+
+
+
    
 
 }
@@ -524,12 +570,30 @@
         justify-content: center;
         margin-left: -8%;
         margin-top: 7%;
+        font-size:14px;
 
     }
     .col-sm-4 .react-card-front button img {
         width: 80%;
         margin-top: 45%;
     }
+
+    
+    .row .col-sm-12.shareholding a {
+        margin-left: 45%;
+        width:14%;
+    }
+
+    .row .swiper-slide h3 {
+        font-size: 20px !important;
+        text-align: left;
+    }
+
+    .col-sm-6.buttonscta {
+        font-size: 14px;
+    }
+
+  
  
     
 }

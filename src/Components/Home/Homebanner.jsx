@@ -3,7 +3,7 @@ import Fade from "react-reveal/Fade";
 import { Link } from "react-router-dom";
 import Videohome from "../../Assets/video/home.mp4";
 import Videomob from "../../Assets/video/videomob.mp4";
-
+import buyn from "..//../Assets/img/buyn.png";
 function Homebanner() {
   const [canAutoplay, setCanAutoplay] = useState(false);
   const videoRef = useRef(null);
@@ -81,8 +81,7 @@ function Homebanner() {
 
             <div className="col-sm-6 buttonscta">
               <Fade right delay={800}>
-                <Link to="/buynow" className="buy">
-               Buy Now
+                <Link to="/buynow" className="buy"> <img src={buyn} width="40" height="40"/>Buy Now
                 </Link>
               </Fade>
               <Fade left delay={800}>

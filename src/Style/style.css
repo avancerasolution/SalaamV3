@@ -2302,3 +2302,18 @@ color: #0E76BC !important;
     margin: 0 10px; /* Adjust the value as needed to control the spacing */
   }
 
+  .row .col-sm-7 h3::before {
+    content: "➤ "; 
+    margin-right: 5px; 
+    font-size:18px;
+}
+
+.row .col-sm-6.buttonscta .buy {
+    background-color: #04A753 !important;
+    color: #fff !important;
+    padding: 3px 12px;
+    border-radius: 10px;
+    border: 1px solid;
+}
+
+
