@@ -2294,7 +2294,7 @@ color: #0E76BC !important;
 .button-container {
     display: flex;
     justify-content: center;
-    margin-left:-38%;
+    margin-left:-20%;
     margin-top:3%;
   }
   
@@ -2320,4 +2320,9 @@ color: #0E76BC !important;
     background: rgba(0, 0, 0, 0.25)!important;
 }
 
-
+.app-buttons img{
+    width:10% !important;
+    filter: brightness(0) invert(1);
+    margin:0px !important;
+    margin-right: 5px !important;
+}

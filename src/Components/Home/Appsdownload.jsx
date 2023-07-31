@@ -5,7 +5,7 @@ import Flip from "react-reveal/Flip";
 import Fade from "react-reveal/Fade";
 import { Link } from "react-router-dom";
 import android from "../../Assets/img/android.png";
-import ios from "../../Assets/img/ios.png";
+import apple from "../../Assets/img/apple.png";
 
 function Appsdownload() {
   return (
@@ -45,14 +45,16 @@ function Appsdownload() {
                 </li>
               </Flip>
             </ul>
-            <div className="button-container">
+            <div className="button-container app-buttons">
               <Flip top delay={1400}>
                 <Link to="/product" className="buy">
+                  <img src={android} alt='android'/>
                   Download Android App
                 </Link>
               </Flip>
               <Flip top delay={1400}>
                 <Link to="/product-ios" className="buy">
+                <img src={apple} alt='apple'/>
                   Download iOS App
                 </Link>
               </Flip>

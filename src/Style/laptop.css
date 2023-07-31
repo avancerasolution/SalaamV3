@@ -343,10 +343,9 @@
     }
 
     .row .button-container {
-        display: flex;
-        justify-content: center;
-        margin-left: -14%;
-        margin-top: 7%;
+        margin-left: -4%;
+        font-size:15px;
+        
     }
     .row .govdirectors h2 {
         color: #000 !important;
@@ -388,6 +387,7 @@
     .col-sm-6.buttonscta .buy {
         padding: 4px 6px !important;
     }
+    
 }
 
 @media only screen and (max-width: 1370px){
@@ -486,6 +486,16 @@
     
     .col-sm-6.buttonscta .buy {
         padding: 0px 12px !important;
+    }
+
+    .row .button-container {
+        margin-left: -4%;
+        font-size:12px;
+        
+        
+    }
+    .donwloadapps .buy{
+        padding: 17px 33px;
     }
 
 
@@ -590,6 +600,12 @@
 
     .col-sm-6.buttonscta {
         font-size: 14px;
+    }
+
+    .row .button-container {
+        margin-left: -4%;
+        font-size:12px;
+        
     }
 
   
