@@ -334,6 +334,32 @@
         padding-bottom: 30px !important;
     }
 
+    .row .col-sm-6.buttonscta .call {
+        background-color: #fff !important;
+        color: #04A753 !important;
+        padding: 12px 20px;
+        border-radius: 10px;
+        border: 1px solid;
+    }
+
+    .row .button-container {
+        display: flex;
+        justify-content: center;
+        margin-left: -14%;
+        margin-top: 7%;
+    }
+    .row .govdirectors h2 {
+        color: #000 !important;
+        text-align: center !important;
+        padding-bottom: 0%;
+    }
+
+    .row .shares {
+        background-color: #0FB583;
+        padding-top: 78px;
+    }
+    
+    
 
 }
 
@@ -412,6 +438,14 @@
     .tabss img {
         width: 97% !important;
     }
+    .row .button-container {
+        display: flex;
+        justify-content: center;
+        margin-left: -8%;
+        margin-top: 7%;
+    }
+
+   
 
 }
 
@@ -484,6 +518,20 @@
         margin-left:-1%
     
     }
+
+    .row .button-container {
+        display: flex;
+        justify-content: center;
+        margin-left: -8%;
+        margin-top: 7%;
+
+    }
+    .col-sm-4 .react-card-front button img {
+        width: 80%;
+        margin-top: 45%;
+    }
+ 
+    
 }
 
 

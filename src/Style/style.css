@@ -2291,4 +2291,14 @@ color: #0E76BC !important;
     margin-left: 0 !important;
 }
 
+.button-container {
+    display: flex;
+    justify-content: center;
+    margin-left:-38%;
+    margin-top:3%;
+  }
+  
+  .buy {
+    margin: 0 10px; /* Adjust the value as needed to control the spacing */
+  }
 

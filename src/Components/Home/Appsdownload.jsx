@@ -18,7 +18,14 @@ function Appsdownload() {
                     <Flip top delay={1000}> <li><img src={Check} alt=''/> Waqf Rules</li></Flip>
                     <Flip top delay={1200}> <li><img src={Check} alt=''/> Waqf Deed</li></Flip>
                     </ul>
-                    <Flip top delay={1400}> <Link to="/product" className="buy ">Download Android</Link></Flip><br/><br/>
+                    <div className="button-container">
+                  <Flip top delay={1400}>
+                    <Link to="/product" className="buy">Download Android App</Link>
+                  </Flip>
+                  <Flip top delay={1400}>
+                    <Link to="/product-ios" className="buy">Download iOS App</Link>
+                  </Flip>
+                </div>          
 
 
 

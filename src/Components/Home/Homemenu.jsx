@@ -6,6 +6,8 @@ import { Pagination } from "swiper";
 import "swiper/css";
 import About from "../../Assets/img/abtimg.png";
 import Checks from "../../Assets/img/checks.png"
+import abt_whoweare from "../../Assets/img/abt_whoweare.png"
+import abt_cd from "../../Assets/img/abt_cd.png"
 
 import { Link } from "react-router-dom";
 
@@ -40,7 +42,7 @@ function Homemenu({change, setChange}) {
             </h3>
 
             <ul>
-            <Flip top delay={1200}><li><img src={Checks} alt="asd"/>High Savings Potenstial</li></Flip>
+            <Flip top delay={1200}><li><img src={Checks} alt="asd"/>High Savings Potential</li></Flip>
             <Flip top delay={1400}> <li><img src={Checks} alt="asd"/>Excellent Protection</li></Flip>
             <Flip top delay={1600}> <li><img src={Checks} alt="asd"/>Exclusive Coverage</li></Flip>
               </ul>
@@ -56,7 +58,7 @@ function Homemenu({change, setChange}) {
                 <SwiperSlide>
                   <Link to="/whoweare" onClick={() => { window.scrollTo({ top: 0, left: 0, behavior: "smooth" }); }} >
                     <div className="menusildes">
-                      <img src={About} alt="asd" />
+                      <img src={abt_whoweare} alt="asd" />
                       <h3>Who We Are</h3>
                     </div>
                   </Link>
@@ -65,7 +67,7 @@ function Homemenu({change, setChange}) {
                 <SwiperSlide>
                   <Link to="/governance" onClick={() => { window.scrollTo({ top: 0, left: 0, behavior: "smooth" });}} >
                     <div className="menusildes">
-                      <img src={About} alt="asd" />
+                      <img src={abt_cd} alt="asd" />
                       <h3>Governance</h3>
                     </div>
                   </Link>
