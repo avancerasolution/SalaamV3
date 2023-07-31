@@ -19,6 +19,8 @@ export default function Desktopnav({ change, setChange }) {
     }
 
   }, [change]);
+
+   
   return (
     <Fragment>
       <Navbar expand="lg" className="bg-body-tertiary">
@@ -45,14 +47,12 @@ export default function Desktopnav({ change, setChange }) {
               <NavDropdown.Item href=""> <Link to="/governance#pattern" onClick={() => setChange(!change)}>Pattern of Shareholding </Link> </NavDropdown.Item>
 
             </NavDropdown>
+            <Nav.Link><Link to="/products" onClick={() => { window.scrollTo({ top: 0, left: 0, behavior: "smooth" }); }}>Products </Link></Nav.Link>
+            {/* <NavDropdown title="Products" id="basic-nav-dropdown">
 
-            <NavDropdown title="Products" id="basic-nav-dropdown">
+              <NavDropdown.Item href=""><Link to="/products" onClick={() => setChange(!change)}>Individual Products </Link> </NavDropdown.Item>        
 
-              <NavDropdown.Item href=""><Link to="/products" onClick={() => setChange(!change)}>Individual Products </Link> </NavDropdown.Item>
-              <NavDropdown.Item href=""><Link to="/" onClick={() => setChange(!change)}> Corporate Products </Link> </NavDropdown.Item>
-        
-
-            </NavDropdown>
+            </NavDropdown> */}
 
 
 

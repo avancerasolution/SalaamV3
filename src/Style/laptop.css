@@ -370,7 +370,7 @@
         font-size: 22px !important;
         text-align: left;
     }
-    .row .col-sm-7 h3::before {
+    .row .col-sm-12 .supliment h3::before {
         content: "➤ "; 
         margin-right: 5px; 
         font-size:15px;
@@ -386,6 +386,20 @@
 
     .col-sm-6.buttonscta .buy {
         padding: 4px 6px !important;
+    }
+
+    .header .navbar-collapse  a.nav-link a {
+        color: #fff;
+        font-weight: 500;
+        font-size: 14px;
+        /* padding-top: 0 !important; */
+        margin-top: -10px; /* Adjust this value as needed */
+        padding:2px;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        margin-top: -0.5%;
+        margin-left:0px;
     }
     
 }
@@ -497,6 +511,20 @@
     .donwloadapps .buy{
         padding: 17px 33px;
     }
+
+    .header .navbar-collapse  a.nav-link a {
+        color: #fff;
+        font-weight: 500;
+        font-size: 14px;
+        /* padding-top: 0 !important; */
+        margin-top: -10px; /* Adjust this value as needed */
+        padding:3px;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        margin-top: -0.8%;
+    }
+    
 
 
 
