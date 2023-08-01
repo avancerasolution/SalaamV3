@@ -14,7 +14,7 @@ function Appsdownload() {
         <div className="row">
           <div className="col-sm-6">
             <Fade top delay={400}>
-              <h2>Takaful Online APP</h2>
+              <h2>Salaam App</h2>
             </Fade>
             <Fade top delay={600}>
               {" "}

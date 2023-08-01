@@ -2331,3 +2331,12 @@ color: #0E76BC !important;
     margin:0px !important;
     margin-right: 5px !important;
 }
+
+.toggleoff{ /*newsevents hidden through this */
+    display:none !important;
+}
+
+.productshide{ /*newsevents hidden through this */
+    display:none !important;
+}
+

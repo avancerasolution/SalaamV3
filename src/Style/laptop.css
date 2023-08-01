@@ -401,6 +401,16 @@
         margin-top: -0.5%;
         margin-left:0px;
     }
+
+    .desktop nav.bg-body-tertiary {
+        background-color: transparent !important;
+        margin-left: -5%;
+    }
+
+    .secp-img img, svg {
+        vertical-align: middle;
+        width: 117%;
+    }
     
 }
 
@@ -525,6 +535,16 @@
         margin-top: -0.8%;
     }
     
+    .desktop nav.bg-body-tertiary {
+        background-color: transparent !important;
+        margin-left: -10%;
+    }
+
+    .secp-img img, svg {
+        vertical-align: middle;
+        width: 123%;
+    }
+    
 
 
 
@@ -635,6 +655,21 @@
         font-size:12px;
         
     }
+
+    .header .navbar-collapse a.nav-link a {
+        margin-left: -12px;
+    }
+
+    .desktop nav.bg-body-tertiary {
+        background-color: transparent !important;
+        margin-left: -13%;
+    }
+
+    .secp-img img, svg {
+        vertical-align: middle;
+        width: 133%;
+    }
+    
 
   
  

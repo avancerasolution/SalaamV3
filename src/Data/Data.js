@@ -6323,7 +6323,8 @@ export const SalaamDirectors=[
         designation:'Chairman',
         detail:'Mr. Rizwan Hussain is a seasoned professional par excellence, possessing an immaculate experience of more than 30 years in a wide range of various leadership roles in local and foreign insurance enterprises, Mr. Rizwan’s name is well known in the corporate world. From he initial responsibilities and successes in product innovation and business network accumulation, he reached towering eights of accomplishments through his exquisite style of work and was soon given the reigns of multiple departments quite early in his career. He assumed the role of Managing Director and CEO of Salaam Takaful Limited in the year 2018 and since day one, has kept his focus to grow, adapt and innovate within the industry, to define the future of insurance / takaful, deliver second-to-none experiences for customers, and help to build resilient communities with utmost transparency with zero compromise on corporate governance. His vision has always been to develop an organization which is the role model for the entire industry. ​He also serves as Non-Executive Director on the Board of Amana Takaful Insurance, Sri Lanka. He is a certified Board Director. ',
         animation:'horizontal',
-        caranim:"up"
+        caranim:"up",
+        image:"../MrRizwanHussain.jpg",
     },
 
     {
@@ -6332,7 +6333,8 @@ export const SalaamDirectors=[
         designation:'Managing Director & CEO',
         detail:'Mr. Salman Hussain graduated from NED University, Karachi in mechanical engineering and holds a Master’s in Business from Cranfield University, United Kingdom. He is the Founder and CEO of iTecknologi Group of Companies which has emerged as one of the leading technology conglomerates in Pakistan. He brings a technology skillset to the Board. Mr. Salman has extensive management consulting experience with McKinsey Middle East and has provided consultations to various state-owned and private firms in the Middle East and across the region as well as International Finance orporation, and World Bank. He is a certified Board Direct.',
         animation:'vertical',
-        caranim:"up"
+        caranim:"up",
+        image:"../SalmanSb.JPG",
     },
 
     {
@@ -6341,7 +6343,8 @@ export const SalaamDirectors=[
         designation:'Non-Executive Director',
         detail:'Dr. Irum Saba has more than 17 years of progressive regulatory, research, training, and teaching experience with organizations of international repute. Currently, she is in Institute of Business Administration (IBA), Karachi working as an Associate Professor in the Department of Finance and Program Director of MS Islamic Banking and Finance. She has the honor to be the first Pakistani female to be part of the International Shariah Advisory Board in South East Asia and Middle East. Recently, she has been awarded the title of WOMENi Pakistan in recognition of her contribution to the islamic Finance Industry in Pakistan and internationally. Furthermore, Dr. Irum Saba has also been included in the prestigious list of top 10 Influential Women in Islamic Business & Finance 2021.  She is a Chartered Islamic Finance Professional (CIFP) with a PhD in Islamic Finance from INCEIF. She is also member of the Grand Council of the Chartered Institute of Islamic Finance Professionals (CIIF), Malaysia, and a Shari’ah-registered financial planner (Shari’ah RFP). She holds a Masters and PGD in Islamic banking and insurance from the Institute of Islamic Banking and Insurance (IIBI), London. Dr. Irum has authored several articles and book chapters on management, corporate governance, and Islamic finance and microfinance. She is a certified Board Director. ',
         animation:'horizontal',
-        caranim:"up"
+        caranim:"up",
+        image:"../irum.JPG",
     },
 
     {
@@ -6350,7 +6353,8 @@ export const SalaamDirectors=[
         designation:'Non-Executive Director',
         detail:'Mr. Salim Habib Godil is a quintessential entrepreneur with business interests in automotive, construction and real estate, transportation and mobility, travel, and security solutions, including ownership of the country’s largest Toyota retail dealership. He also serves as Chairman of Pak Limousine Services which is the pioneer of the radio cab business in Pakistan as well as Chairman of Armored Vehicles Pakistan (formerly Striet Pakistan) which is the largest privately owned armored vehicle manufacturer in the country.Mr. Godil is the recipient of the Hilal-e-Imtiaz which is one of the highest civilian awards in Pakistan given in recognition of outstanding contribution to significant public endeavors. He was also given the FBR’s Highest Taxpayer Award 2019 which is awarded to he country`s top taxpayers identified by the Federal Board of Revenue. He is a certified Board Director .',
         animation:'vertical',
-        caranim:"down"
+        caranim:"down",
+        image:"../salimhabib.JPG",
     },
 
     {
@@ -6359,7 +6363,8 @@ export const SalaamDirectors=[
         designation:'Non-Executive Director',
         detail:'Mr. Shahzad Salim Godil graduated from Clark University, Massachusetts in 2008 in business management, economics and entrepreneurship. He has been associated with a highly renowned conglomerate of Pakistan and serves in the capacity of Director, playing an instrumental role in the Group’s diversification into construction, transportation and mobility, and travel. He brings an entrepreneurial mindset to the Board. Shahzad Godil serves as Director in Toyota Central Motors, Toyota Society Motors, Toyota Shahra-e-Faisal, Pak Limousine Services, Armored Vehicles Pakistan (formerly Striet Pakistan), Metro Security Services (Pvt.) Ltd, Central Facilitation Agency (Pvt.) Ltd, Automall and Central Builders and Developers. He is a certified Board Director. ',
         animation:'horizontal',
-        caranim:"down"
+        caranim:"down",
+        image:"../shahzadgodil.JPG"
     },
 
    
@@ -6372,7 +6377,9 @@ export const Salaamcomitiee=[
         designation:'Committee Member',
         detail:'Mr. Rizwan Hussain is a highly accomplished professional with over 30 years of experience in various leadership roles within the insurance industry, both locally and internationally. He is renowned in the corporate world for his exceptional work in product innovation and business network accumulation, which has led to his appointment as Managing Director and CEO of Salaam Takaful Limited in 2018. Since then, Mr. Rizwan has focused on growth, adaptation, and innovation within the industry to define the future of insurance and deliver top-notch experiences for customers while upholding transparency and corporate governance. His vision is to develop an organization that is a role model for the entire industry. Furthermore, he serves as a Non-Executive Director on the Board of Amana Takaful Insurance in Sri Lanka and is a certified Board Director.',
         animation:'horizontal',
-        caranim:"up"
+        caranim:"up",
+        image:"../directors.png"
+
     },
 
     {
@@ -6381,7 +6388,9 @@ export const Salaamcomitiee=[
         designation:'Committee Member',
         detail:'Serving as Head of Marketing at Salaam Takaful Limited, Mr. Farhan Sheikh is an experienced marketing professional with a career spanning over 20 years covering a broad spectrum from Strategy Building, Planning, Budgeting, Marketing Communication with ATL, BTL, Digital and Guerilla Advertising tools. Additional expertise in brand building, sales channel formation, retention, and promotion. Moreover, he is also indulged in academia as visiting faculty in a couple of prestigious universities of Pakistan.',
         animation:'vertical',
-        caranim:"up"
+        caranim:"up",
+        image:"../directors.png"
+
     },
 
     {
@@ -6390,7 +6399,9 @@ export const Salaamcomitiee=[
         designation:'Committee Member',
         detail:'With over 23+ years’ experience in insurance, takaful, regulatory and private sector, Mr. Nayyar is working with us looking after strategy & new initiatives. He is mainly working on all the strategic initiatives of the company including strategy for family takaful, risk management, product development and other regulatory affairs.',
         animation:'horizontal',
-        caranim:"up"
+        caranim:"up",
+        image:"../SyedNayyarHussain.JPG"
+
     },
 
     {
@@ -6399,7 +6410,9 @@ export const Salaamcomitiee=[
         designation:'Committee Member',
         detail:'A Human resources specialist, Mr. Noman Zaidi has 22 years of experience in the field of organizational development. Before joining Salaam takaful ltd. Noman Zaidi was serving as the Director HR is a prominent organization. He is a graduate member of the Chartered Institute of Personnel and development and a master’s in human resources from Kingston University, London.',
         animation:'vertical',
-        caranim:"down"
+        caranim:"down",
+        image:"../directors.png"
+
     },
 
     {
@@ -6408,7 +6421,9 @@ export const Salaamcomitiee=[
         designation:'Committee Member',
         detail:'Mr. Waqas Ahmed is head of family takaful. He is currently in the process of jumpstarting the company. Life Takaful is a central pillar of our upcoming strategy. And that is all thanks to Mr. Waqas’ vision on bundled products and pushing the horizons of insurance services in Pakistan.',
         animation:'horizontal',
-        caranim:"down"
+        caranim:"down",
+        image:"../WaqasAhmad.jpg"
+
     },
 
    

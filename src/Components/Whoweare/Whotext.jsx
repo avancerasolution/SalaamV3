@@ -1,6 +1,6 @@
 import React from 'react'
 import { Fragment } from 'react'
-import Firstimage from "../../Assets/img/whofirst.png"
+import Firstimage from "../../Assets/img/whofirst2.png"
 
 export default function Whotext() {
   return (

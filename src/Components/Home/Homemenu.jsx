@@ -84,7 +84,7 @@ function Homemenu({change, setChange}) {
 
                 <SwiperSlide>
                   <Link to="/products" onClick={() => { window.scrollTo({ top: 0, left: 0, behavior: "smooth" });}} >
-                    <div className="menusildes">
+                    <div className="menusildes productshide">
                       <img src={About} alt="asd" />
                       <h3>Products</h3>
                     </div>

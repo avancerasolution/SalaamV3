@@ -1,6 +1,5 @@
 import React, { Fragment, useState, useEffect } from 'react';
 import ReactCardFlip from 'react-card-flip';
-import Directors from "../../Assets/img/directors.png";
 import Fade from 'react-reveal/Fade';
 import { SalaamDirectors } from "../../Data/Data";
 import AOS from 'aos';
@@ -35,10 +34,11 @@ function Directorbox() {
                 >
                   <div>
                     <button onClick={() => handleClick(index)}>
-                      <img src={Directors} alt='directors' />
+                      <img src={data.image} alt='directors' />
                       <h3 className='dname'>{data.name}</h3>
                       <p className='designation'>{data.designation}</p>
                     </button>
+
                   </div>
 
                   <div>

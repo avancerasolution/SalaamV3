@@ -82,6 +82,12 @@ function Footer() {
                   <Button type="primary" htmlType="submit"> <img src={Arrow} alt='' />  </Button>
                 </Form.Item>
               </Form>
+              <div className="secp-img">
+              <a href="https://sdms.secp.gov.pk/~sdmsadmn/">
+              <img src="https://www.salaamtakaful.com/assets/images/SECPSDMF.png" alt="secp" />
+              </a>
+              </div>
+
             </div>
           </Fade>
 
@@ -139,11 +145,13 @@ function Footer() {
                       <Input placeholder="E-mail Address" />
                     </Form.Item>
                     <Form.Item  >
-                      <Button type="primary" htmlType="submit"> <img src={Arrow} alt='' />  </Button>
+                      <Button type="primary" htmlType="submit"> <img src={Arrow} alt='' /></Button>
                     </Form.Item>
                   </Form>
                 </Accordion.Body>
               </Accordion.Item>
+
+
 
             </Accordion>
           </div>

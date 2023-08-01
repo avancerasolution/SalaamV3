@@ -14,7 +14,7 @@ function convertToSlug(text) {
 function Newsmenu() {
   return (
     <Fragment>
-      <div className="container homemenu newsevents">
+      <div className="container homemenu newsevents toggleoff">
         <div className="row">
           <div className="col-sm-12 explore news">
             <h2>

@@ -69,7 +69,7 @@ function App() {
                     <Route path='/governance' exact element={<Governance />} />
                     <Route path='/buynow' exact element={<BuyNow />} />
                     <Route path='/sidebar' exact element={<SideBar change={change} setChange={setChange}  />} />
-                    <Route path='/newsnevents' exact element={<Newsevent />} />
+                    <Route path='/newsnevents'  exact element={<Newsevent />} />
                     <Route path='/news/:heading' exact element={<SingleNewsPage />} />
                     <Route path='/products' exact element={<ProductsSavings />} />
 

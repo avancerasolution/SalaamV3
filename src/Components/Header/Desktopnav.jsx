@@ -58,11 +58,17 @@ export default function Desktopnav({ change, setChange }) {
 
             <NavDropdown title="Investor Relations" id="basic-nav-dropdown">
 
-              <NavDropdown.Item href="">	Investor Complaints - person handling grievances</NavDropdown.Item>
-              <NavDropdown.Item href=""> Investment Performance Report</NavDropdown.Item>
+              <NavDropdown.Item href="">	Investor Complaints</NavDropdown.Item>
+              {/*<NavDropdown.Item href=""> Investment Performance Report</NavDropdown.Item>
               <NavDropdown.Item href=""> Individual Life - Unit Prices </NavDropdown.Item>
-              <NavDropdown.Item href=""> Bancatakaful - Unit Prices	</NavDropdown.Item>
-              <NavDropdown.Item href=""> SECP's Service Desk Management System </NavDropdown.Item>
+              <NavDropdown.Item href=""> Bancatakaful - Unit Prices	</NavDropdown.Item>*/}
+              <NavDropdown title="Funds" id="basic-nav-dropdown">
+                <NavDropdown.Item href="">Funds Prices</NavDropdown.Item>
+                <NavDropdown.Item href="">Past Prices</NavDropdown.Item>
+
+              </NavDropdown>
+
+              <NavDropdown.Item href="https://sdms.secp.gov.pk/~sdmsadmn/"> SECP's </NavDropdown.Item>
 
             </NavDropdown>
 
@@ -110,11 +116,24 @@ export default function Desktopnav({ change, setChange }) {
               <NavDropdown title="Takaful Booklet" id="basic-nav-dropdown">
                 <NavDropdown.Item href=""> Takaful Booklet </NavDropdown.Item>
               </NavDropdown>
+
+              <NavDropdown title="Policies" id="basic-nav-dropdown">
+                <NavDropdown.Item href=""> Policies </NavDropdown.Item>
+              </NavDropdown>
             </NavDropdown>
 
             <NavDropdown title="Media Center" id="basic-nav-dropdown">
               <NavDropdown.Item href=""> Takaful Videos	</NavDropdown.Item>
               <NavDropdown.Item href=""> News & Updates	</NavDropdown.Item>
+            </NavDropdown>
+
+
+            
+            <NavDropdown title="E Services" id="basic-nav-dropdown">
+              <NavDropdown.Item href=""> Certificate Verification	</NavDropdown.Item>
+              <NavDropdown.Item href=""> Complaint Box	</NavDropdown.Item>
+              <NavDropdown.Item href=""> Whistle Blowing Form	</NavDropdown.Item>
+    
             </NavDropdown>
 
             <NavDropdown title="Online Portals" id="basic-nav-dropdown">
